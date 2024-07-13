@@ -1,0 +1,24 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:1rem;
+}
+
+.form_group{
+    width:100%;
+}
+
+.form_input{
+    width:100%;
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 1rem;
+}
+
+.form_label{
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
